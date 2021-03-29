@@ -1,0 +1,2 @@
+# COVID-19-I-NET-Image-segmentation-using-U-net-and-PSP-net
+For COVID-19 patients the common stage in diagnosis is computer tomography (CT). A radiologist is often asked to estimate the extent of damage with respect to lung volume. It is a time-consuming procedure, because radiologist should look through all axial slices on CT and segment each of them.so, we ended up training a U-net and PSP-net architectural models for this purpose. The model achieved a greater accuracy  in segmentation of all axial slices on CT.
